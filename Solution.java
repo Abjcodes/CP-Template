@@ -71,6 +71,7 @@ public class Solution
     public static void main(String[] args) {
         try{
            FastReader s = new FastReader();
+           StringBuilder sb = new StringBuilder();
            /*
            Your code
            */
